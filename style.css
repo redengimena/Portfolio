@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+body{
+    background: linear-gradient(to right, rgb(93, 188, 232), rgb(89, 89, 172));
+}
+
+h1{
+    font-family: sans-serif;
+}
